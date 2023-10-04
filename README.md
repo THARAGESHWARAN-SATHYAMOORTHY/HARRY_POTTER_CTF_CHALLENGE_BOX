@@ -2,7 +2,7 @@
 
 **HOUSE : HUFLEPUFF (YELLOW AND BLACK)**
 
-![Sample Image](Screenshots/P1.jpg)
+![Sample Image](Screenshots/P1.png)
 
 **CHALLENGE OVERVIEW:**
 
