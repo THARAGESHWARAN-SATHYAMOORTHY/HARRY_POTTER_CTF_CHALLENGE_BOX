@@ -2,6 +2,8 @@
 
 **HOUSE : HUFLEPUFF (YELLOW AND BLACK)**
 
+![Sample Image](Screenshots/P1.jpg)
+
 **CHALLENGE OVERVIEW:**
 
 This report presents a series of Harry Potter-themed CTF challenges designed to engage participants in an immersive and magical experience. These challenges incorporate elements from the wizarding world of Hogwarts, including spells, potions, and the values embodied by Hufflepuff House. The challenges are carefully crafted to test participants' problem-solving skills, knowledge of the Harry Potter universe, and their ability to work collaboratively.
