@@ -1,4 +1,4 @@
-![image](https://github.com/THARAGESHWARAN-SATHYAMOORTHY/HARRY_POTTER_CTF_CHALLENGE_BOX/Logo.jpg)
+![image](Logo.jpg)
 
 # HARRY_POTTER_CTF_CHALLENGE_BOX
 
