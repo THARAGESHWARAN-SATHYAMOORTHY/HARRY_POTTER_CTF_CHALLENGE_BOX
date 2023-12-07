@@ -11,7 +11,7 @@ In Gryffindor, where courage and valor reign supreme, you will face challenges t
 
 Choose your house wisely, and set forth on this extraordinary quest through the realms of both magic and cyberspace. Seek the hidden flags, display your house's colors proudly, and may your journey be a magical one!
 
-Best of luck, young wizards and witches, as you embark on this challenging adventure in pursuit of the elusive flags!
+Best of luck, young wizards and witches, as you embark on this challenging adventure in pursuit of the elusive flags!!
 
 The ova file is provided and have fun solving out ctf box
 
